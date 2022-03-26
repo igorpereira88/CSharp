@@ -1,5 +1,7 @@
 ﻿using Pratica.Logica;
 
-Exercicio5 ex = new Exercicio5();
-ex.ValorPeca();
+//Instanciar a classe referente ao exercicio resolvido conforme exemplo abaixo.
+
+Exercicio1 ex = new Exercicio1();
+ex.Soma();
 
